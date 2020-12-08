@@ -1,4 +1,4 @@
-# create a window with a label #
+# create a window with a label and button #
 
 import tkinter
 
